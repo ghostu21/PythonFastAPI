@@ -1,5 +1,4 @@
 
-# order_schema.py
 from pydantic import BaseModel
 
 class OrderCreateSchema(BaseModel):
